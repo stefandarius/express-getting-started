@@ -1,6 +1,6 @@
 # Genezio Express Getting Started
 
-test commit in branch 2
+test commit in branch 2 another commit
 
 In the index.mjs file, you will see a very basic Express.js application that is set up to be deployed as a Genezio function. It handles a couple of requests (/ and /users).
 
